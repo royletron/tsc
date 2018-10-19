@@ -8,6 +8,7 @@
     "build": "tsc"
   },
   "devDependencies": {
+    "@types/es6-shim": "0.31.37",
     "@types/mocha": "5.2.4",
     "mocha": "3.5.3",
     "ts-node": "5.0.1",
